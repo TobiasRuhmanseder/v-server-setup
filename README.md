@@ -12,7 +12,6 @@
 
 ## Quick Start
 
-For experienced users, the essential steps:
 
 ```bash
 # 1. Generate SSH key
