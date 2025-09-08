@@ -32,7 +32,7 @@ sudo apt install nginx -y
 
 Open in browser:
 ```bash
-http://123.456.789.100
+http://<123.456.789.100>
 ```
 
 
