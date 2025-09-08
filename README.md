@@ -53,7 +53,7 @@ ssh username@123.456.789.100
 
 **Copy public key to server:**
 ```bash
-ssh-copy-id -i ~/.ssh/myserver/id_ed25519.pub username@123.456.789.100
+ssh-copy-id -i ~/.ssh/myserver/id_ed25519.pub <username>@<123.456.789.100>
 ```
 
 **Test login:**
