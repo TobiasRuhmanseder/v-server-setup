@@ -48,7 +48,7 @@ ssh-keygen -t ed25519 -f ~/.ssh/myserver/id_ed25519
 
 **First login with password:**
 ```bash
-ssh username@123.456.789.100
+ssh <username>@<123.456.789.100>
 ```
 
 **Copy public key to server:**
