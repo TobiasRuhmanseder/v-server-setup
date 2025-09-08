@@ -1,6 +1,6 @@
 # V-Server Setup
 
-## Table of Content
+## Table of Contents
 
 - [Quick Start](#quick-start)
 - [Usage](#usage)
